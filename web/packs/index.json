@@ -1,7 +1,8 @@
 {
   "packs": [
     "test.json",
-    "stickers1.json"
+    "stickers1.json",
+    "animatedpepe.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
